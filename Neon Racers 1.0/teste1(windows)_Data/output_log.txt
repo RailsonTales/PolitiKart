@@ -1,0 +1,36 @@
+Mono path[0] = 'E:/New Unity Project - Copia/teste1(windows)_Data/Managed'
+Mono path[1] = 'E:/New Unity Project - Copia/teste1(windows)_Data/Mono'
+Mono config path = 'E:/New Unity Project - Copia/teste1(windows)_Data/Mono/etc'
+PlayerConnection initialized from E:/New Unity Project - Copia/teste1(windows)_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55275
+Multi-casting "[IP] 192.168.63.1 [Port] 55275 [Flags] 3 [Guid] 3628408273 [EditorId] 3176907638 [Version] 1048832 [Id] WindowsPlayer(MAC1-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.63.1:55275]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56273
+PlayerConnection already initialized - listening to [192.168.63.1:55275]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2027 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.133 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 780 -> priority: 1 
+  Thread -> id: 7dc -> priority: 1 

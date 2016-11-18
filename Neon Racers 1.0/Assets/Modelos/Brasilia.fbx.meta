@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 6c2fcc3eff900934fb7f7b4c256a0ab3
+timeCreated: 1462107770
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box003
+    100002: //RootNode
+    100004: Catedral
+    100006: Cube
+    100008: Hemi.001
+    100010: pILATRAS
+    100012: pILATRAS.001
+    100014: pILATRAS.002
+    100016: pILATRAS.003
+    100018: pILATRAS.004
+    100020: pILATRAS.005
+    100022: pILATRAS.006
+    100024: pILATRAS.007
+    100026: pILATRAS.008
+    100028: pILATRAS.009
+    100030: pILATRAS.010
+    100032: pILATRAS.011
+    100034: pILATRAS.012
+    100036: pILATRAS.013
+    100038: pILATRAS.014
+    100040: pILATRAS.015
+    100042: pILATRAS.016
+    100044: pILATRAS.017
+    100046: pILATRAS.018
+    100048: pILATRAS.019
+    100050: pILATRAS.020
+    100052: pILATRAS.021
+    100054: pILATRAS.022
+    100056: Plane
+    100058: Plane.001
+    400000: Box003
+    400002: //RootNode
+    400004: Catedral
+    400006: Cube
+    400008: Hemi.001
+    400010: pILATRAS
+    400012: pILATRAS.001
+    400014: pILATRAS.002
+    400016: pILATRAS.003
+    400018: pILATRAS.004
+    400020: pILATRAS.005
+    400022: pILATRAS.006
+    400024: pILATRAS.007
+    400026: pILATRAS.008
+    400028: pILATRAS.009
+    400030: pILATRAS.010
+    400032: pILATRAS.011
+    400034: pILATRAS.012
+    400036: pILATRAS.013
+    400038: pILATRAS.014
+    400040: pILATRAS.015
+    400042: pILATRAS.016
+    400044: pILATRAS.017
+    400046: pILATRAS.018
+    400048: pILATRAS.019
+    400050: pILATRAS.020
+    400052: pILATRAS.021
+    400054: pILATRAS.022
+    400056: Plane
+    400058: Plane.001
+    2300000: Box003
+    2300002: Catedral
+    2300004: Cube
+    2300006: pILATRAS
+    2300008: pILATRAS.001
+    2300010: pILATRAS.002
+    2300012: pILATRAS.003
+    2300014: pILATRAS.004
+    2300016: pILATRAS.005
+    2300018: pILATRAS.006
+    2300020: pILATRAS.007
+    2300022: pILATRAS.008
+    2300024: pILATRAS.009
+    2300026: pILATRAS.010
+    2300028: pILATRAS.011
+    2300030: pILATRAS.012
+    2300032: pILATRAS.013
+    2300034: pILATRAS.014
+    2300036: pILATRAS.015
+    2300038: pILATRAS.016
+    2300040: pILATRAS.017
+    2300042: pILATRAS.018
+    2300044: pILATRAS.019
+    2300046: pILATRAS.020
+    2300048: pILATRAS.021
+    2300050: pILATRAS.022
+    2300052: Plane
+    2300054: Plane.001
+    3300000: Box003
+    3300002: Catedral
+    3300004: Cube
+    3300006: pILATRAS
+    3300008: pILATRAS.001
+    3300010: pILATRAS.002
+    3300012: pILATRAS.003
+    3300014: pILATRAS.004
+    3300016: pILATRAS.005
+    3300018: pILATRAS.006
+    3300020: pILATRAS.007
+    3300022: pILATRAS.008
+    3300024: pILATRAS.009
+    3300026: pILATRAS.010
+    3300028: pILATRAS.011
+    3300030: pILATRAS.012
+    3300032: pILATRAS.013
+    3300034: pILATRAS.014
+    3300036: pILATRAS.015
+    3300038: pILATRAS.016
+    3300040: pILATRAS.017
+    3300042: pILATRAS.018
+    3300044: pILATRAS.019
+    3300046: pILATRAS.020
+    3300048: pILATRAS.021
+    3300050: pILATRAS.022
+    3300052: Plane
+    3300054: Plane.001
+    4300000: Plane.001
+    4300002: Plane
+    4300004: Cube
+    4300006: Box003
+    4300008: Catedral
+    4300010: pILATRAS
+    4300012: pILATRAS.002
+    4300014: pILATRAS.001
+    4300016: pILATRAS.003
+    4300018: pILATRAS.004
+    4300020: pILATRAS.005
+    4300022: pILATRAS.006
+    4300024: pILATRAS.007
+    4300026: pILATRAS.008
+    4300028: pILATRAS.009
+    4300030: pILATRAS.010
+    4300032: pILATRAS.011
+    4300034: pILATRAS.012
+    4300036: pILATRAS.013
+    4300038: pILATRAS.014
+    4300040: pILATRAS.015
+    4300042: pILATRAS.016
+    4300044: pILATRAS.017
+    4300046: pILATRAS.018
+    4300048: pILATRAS.019
+    4300050: pILATRAS.020
+    4300052: pILATRAS.021
+    4300054: pILATRAS.022
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
