@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Menu : MonoBehaviour {
@@ -15,6 +15,7 @@ public class Menu : MonoBehaviour {
 
     void OnGUI()
     {
+	
         if (GUI.Button(new Rect(Screen.width / 2 - 100, Screen.height / 2 - 150, 100, 50), "Jogar"))
         {
             Application.LoadLevel("principal");
