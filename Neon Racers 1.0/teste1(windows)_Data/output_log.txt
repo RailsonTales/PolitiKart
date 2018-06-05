@@ -1,36 +1,36 @@
-Mono path[0] = 'E:/New Unity Project - Copia/teste1(windows)_Data/Managed'
-Mono path[1] = 'E:/New Unity Project - Copia/teste1(windows)_Data/Mono'
-Mono config path = 'E:/New Unity Project - Copia/teste1(windows)_Data/Mono/etc'
-PlayerConnection initialized from E:/New Unity Project - Copia/teste1(windows)_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55275
-Multi-casting "[IP] 192.168.63.1 [Port] 55275 [Flags] 3 [Guid] 3628408273 [EditorId] 3176907638 [Version] 1048832 [Id] WindowsPlayer(MAC1-PC) [Debug] 1" to [225.0.0.222:54997]...
-Waiting for connection from host on [192.168.63.1:55275]...
+Mono path[0] = 'C:/Users/visitante2/Documents/Projetos/PolitiKart/Neon Racers 1.0/teste1(windows)_Data/Managed'
+Mono path[1] = 'C:/Users/visitante2/Documents/Projetos/PolitiKart/Neon Racers 1.0/teste1(windows)_Data/Mono'
+Mono config path = 'C:/Users/visitante2/Documents/Projetos/PolitiKart/Neon Racers 1.0/teste1(windows)_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/visitante2/Documents/Projetos/PolitiKart/Neon Racers 1.0/teste1(windows)_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55404
+Multi-casting "[IP] 192.168.1.85 [Port] 55404 [Flags] 3 [Guid] 2807507542 [EditorId] 3176907638 [Version] 1048832 [Id] WindowsPlayer(IPPLAN_DEV_01) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.1.85:55404]...
 Timed out. Continuing without host connection.
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56273
-PlayerConnection already initialized - listening to [192.168.63.1:55275]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56542
+PlayerConnection already initialized - listening to [192.168.1.85:55404]
 Initialize engine version: 5.2.1f1 (44735ea161b3)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Renderer: AMD Radeon HD 7000 series (ID=0x6778)
     Vendor:   ATI
-    VRAM:     2027 MB
+    VRAM:     1010 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\New Unity Project - Copia\teste1(windows)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.133 seconds
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.060 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: E:\New Unity Project - Copia\teste1(windows)_Data\Managed\System.dll (this message is harmless)
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 780 -> priority: 1 
-  Thread -> id: 7dc -> priority: 1 
+Platform assembly: C:\Users\visitante2\Documents\Projetos\PolitiKart\Neon Racers 1.0\teste1(windows)_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b00 -> priority: 1 
