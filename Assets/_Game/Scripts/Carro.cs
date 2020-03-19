@@ -1,21 +1,21 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class Carro : MonoBehaviour
 {
-    public float lado;    
-    public float velocidade;
-	public Rigidbody movRigidbody;
-    public float tempo = 0, burstTime;
+	[SerializeField] Rigidbody movRigidbody;
+	[SerializeField] GameObject cor;
+    //[SerializeField] KartIA ia;
+    
+    [SerializeField] float lado, velocidade, tempo = 0, burstTime;    
+
     public int voltas = 0;
     public bool faixa1 = false, faixa2 = false, faixa3 = false;
-    public IA ia;
-    public GameObject cor;
-    public float count;
-    public float contador;
-    public float limiteVelocidadeNormal, limiteRe, limiteVelocidadeBurst;
-    public float aceleracao, desaceleracao;
-    public float contadorMoedas;
+    
+    [SerializeField] float limiteVelocidadeNormal, limiteRe, limiteVelocidadeBurst;
+    [SerializeField] float aceleracao, desaceleracao;
+
     public bool burst;
     public float testColisao;
     public TrailRenderer trail;
@@ -34,9 +34,9 @@ public class Carro : MonoBehaviour
         aceleracao = 0.25f;
         desaceleracao = 0.15f;
         limiteVelocidadeBurst = 100;
-        contadorMoedas = 0;
-        count = 0.1f;
-        contador = 0;        
+        //contadorMoedas = 0;
+        //count = 0.1f;
+        //contador = 0;        
         trail = gameObject.GetComponent<TrailRenderer>();
         gravidade = -20;
     }
@@ -150,30 +150,7 @@ public class Carro : MonoBehaviour
 	}
     
     void OnTriggerEnter(Collider colisao)
-    {
-        //if (colisao.gameObject.tag.Contains("Chao"))
-        //{
-        //    gravidade = 0;
-        //}
-
-        if (colisao.gameObject.tag.Contains("Moeda1"))
-        {
-            contadorMoedas = 1;
-            Destroy(colisao.gameObject);
-        }
-        if (colisao.gameObject.tag.Contains("Moeda2"))
-        {
-            contadorMoedas = 2;
-            Destroy(colisao.gameObject);
-        }
-        if (colisao.gameObject.tag.Contains("Moeda3"))
-        {
-            contadorMoedas = 3;
-            Destroy(colisao.gameObject);
-            burst = true;
-        }
-        
-        ////////////////////////////////////////////////////////////////////////////////////
+    {   ////////////////////////////////////////////////////////////////////////////////////
         
         if (colisao.gameObject.tag.Contains("Faixa1"))
         {
