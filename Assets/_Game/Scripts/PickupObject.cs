@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class PickupObject : MonoBehaviour
 {
+    AudioSource collectSound;
 	    private void OnTriggerEnter(Collider collision)
     {
         if (collision.tag == "Player")
         {
+            collectSound.Play();
             print("Item picked up");
+            //GameManager.instance.AddScore(1);
+            //print("GameManager.instance.playerScore");
             Destroy(this.gameObject);
         }
 
