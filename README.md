@@ -1,4 +1,5 @@
-![Project Logo](Assets/_Game/Arte2D/Logo.png)
+<p>![Project Logo](Assets/_Game/Arte2D/Logo.png)
+</p>
 # PolitiKart
 
 
