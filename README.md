@@ -1,4 +1,5 @@
-<center>![Project Logo](https://github.com/RailsonTales/PolitiKart/blob/master/Assets/_Game/Arte2D/Logo.png)
+<center>
+![Project Logo](https://github.com/RailsonTales/PolitiKart/blob/master/Assets/_Game/Arte2D/Logo.png)
 # PolitiKart
 </center>
 
