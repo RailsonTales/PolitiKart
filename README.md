@@ -1,4 +1,4 @@
-![Project Logo](Assets/_Game/Arte2D/Logo.png)
+![Project Logo](Assets/_Game/Arte2D/Logobolado.png)
 
 # PolitiKart
 
@@ -9,3 +9,13 @@
 <h1>Jogabilidade</h1>
 O foco inicial do projeto é para plataformas móveis.
 ![Controles](Assets/Game/Arte2D/Tela _ controles.png)
+
+<h1>Personagens</h1>
+
+<h1>To do List</h1>
+Seleção de personagens
+Seleção de pistas
+
+<h1>Créditos</h1>
+Railson Tales
+Felipe Gomes
