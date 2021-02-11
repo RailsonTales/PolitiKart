@@ -161,12 +161,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: c415b26e5a1c4fe4e938ea6992cb81d8, type: 2}
+    second: {fileID: 2100000, guid: 02fdb068f6bd965469b7bde8552073a6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.025
-    second: {fileID: 2100000, guid: c415b26e5a1c4fe4e938ea6992cb81d8, type: 2}
+    second: {fileID: 2100000, guid: 02fdb068f6bd965469b7bde8552073a6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -231,7 +231,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 4
-    normalCalculationMode: 0
+    normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
